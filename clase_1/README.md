@@ -82,10 +82,61 @@ Ejemplo práctico:
 
 ---
 
-## 🧠 Actividad sugerida
+En Machine Learning (ML), los algoritmos se clasifican principalmente en **supervisados** y **no supervisados** según el tipo de datos con los que trabajan y el objetivo del aprendizaje.
 
-> Elegí un proceso de negocio en una industria (ej: salud, retail, manufactura).
->
-> * ¿Qué problema podrías resolver con Data Science?
-> * ¿Qué tipo de datos necesitarías?
-> * ¿Qué modelo te parece adecuado? (regresión, clasificación, clustering, etc.)
+---
+
+## 🧠 Aprendizaje Supervisado
+
+**Definición**: Se entrena el modelo con un conjunto de datos etiquetado, es decir, se conoce la **respuesta correcta** (o *output*) para cada entrada (*input*). El objetivo es que el modelo aprenda una función que relacione entradas con salidas.
+
+### Casos típicos:
+
+* **Clasificación**: Predecir una categoría.
+
+  * Ejemplo: ¿Este email es spam o no?
+* **Regresión**: Predecir un valor numérico.
+
+  * Ejemplo: ¿Cuál será el precio de una casa?
+
+### Algoritmos comunes:
+
+| Tipo                      | Algoritmo                             | Ejemplo práctico             |
+| ------------------------- | ------------------------------------- | ---------------------------- |
+| Clasificación             | Árboles de decisión                   | Diagnóstico médico           |
+| Clasificación             | K-Nearest Neighbors (KNN)             | Recomendaciones de productos |
+| Clasificación             | Support Vector Machines (SVM)         | Detección de fraude          |
+| Clasificación / Regresión | Random Forest                         | Predicción de ventas         |
+| Clasificación / Regresión | Gradient Boosting (XGBoost, LightGBM) | Marketing predictivo         |
+| Regresión                 | Regresión lineal                      | Predicción de ingresos       |
+| Regresión                 | Regresión polinómica                  | Modelado de trayectorias     |
+
+---
+
+## 🧠 Aprendizaje No Supervisado
+
+**Definición**: Se trabaja con datos **no etiquetados**, es decir, no se conoce el resultado esperado. El modelo busca **estructuras, patrones o agrupamientos** dentro de los datos.
+
+### Casos típicos:
+
+* **Clustering**: Agrupar datos similares.
+
+  * Ejemplo: Segmentar clientes según comportamiento.
+* **Reducción de dimensionalidad**: Simplificar datos con muchas variables.
+
+  * Ejemplo: Visualizar datos complejos en 2D.
+* **Detección de anomalías**: Identificar datos fuera de lo común.
+
+  * Ejemplo: Detectar fraudes bancarios.
+
+### Algoritmos comunes:
+
+| Tipo                     | Algoritmo                                 | Ejemplo práctico                    |
+| ------------------------ | ----------------------------------------- | ----------------------------------- |
+| Clustering               | K-Means                                   | Segmentación de clientes            |
+| Clustering               | DBSCAN                                    | Agrupación con densidades variables |
+| Reducción de dimensiones | PCA (Análisis de Componentes Principales) | Visualización de datos              |
+| Reducción / Detección    | t-SNE, UMAP                               | Exploración de datos complejos      |
+| Anomalías                | Isolation Forest                          | Monitoreo de sistemas en producción |
+
+

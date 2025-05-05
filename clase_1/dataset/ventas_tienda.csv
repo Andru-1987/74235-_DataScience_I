@@ -1,0 +1,7 @@
+id_venta,fecha_venta,id_producto,nombre_producto,categoria_producto,cantidad,precio_unitario,total_venta,id_cliente,nombre_cliente
+1,2024-08-01,101,Laptop Dell XPS,Electrónica,1,1200.0,1200.0,1001,Juan Pérez
+2,2024-08-01,102,Samsung Galaxy S21,Electrónica,2,800.0,1600.0,1002,María López
+3,2024-08-02,103,Cafetera Nespresso,Electrodomésticos,1,150.0,150.0,1003,Carlos Gómez
+4,2024-08-02,104,Camiseta Nike,Ropa,3,25.0,75.0,1004,Ana Torres
+5,2024-08-03,105,Bicicleta Trek,Deportes,1,450.0,450.0,1005,Luis Fernández
+6,2024-08-03,101,Laptop Dell XPS,Electrónica,1,1200.0,1200.0,1001,Juan Pérez
