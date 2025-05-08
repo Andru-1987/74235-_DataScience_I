@@ -23,7 +23,7 @@
   - Transformaciones y agregaciones
   - Manejo de valores faltantes
   - Combinación de dataset
- 
+ [Estructura de Proyectos de Data Science](https://dev.to/luxdevhq/generic-folder-structure-for-your-machine-learning-projects-4coe)
 
  **Visualizaciones Avanzadas**
   - Matplotlib para visualizaciones estáticas
