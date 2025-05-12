@@ -42,8 +42,7 @@ root_files = [
     "LICENSE",
     "Makefile",
     "requirements.txt",
-    "setup.py",
-    "tox.ini"
+    "setup.py"
 ]
 
 # Contenido del README.md
@@ -82,7 +81,6 @@ src/                <- Source code for use in this project.
 │   └── train\_model.py
 └── visualization/
 └── visualize.py
-
 ```
 """
 
