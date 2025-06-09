@@ -204,3 +204,6 @@ Una **serie de tiempo** es un conjunto de observaciones recogidas **en momentos 
 ### En pocas palabras:
 
 ✅ **Sí, el índice trimestral de inflación es una serie de tiempo**, y puede ser analizado mediante métodos estadísticos y econométricos propios del análisis de series temporales.
+---
+
+
