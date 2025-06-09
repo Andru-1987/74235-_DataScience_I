@@ -1,4 +1,6 @@
-# Inicio -> tipos de variables
+# Tipos de variables en un analisis del tipo EDA
+[DIAPOSITIVAS](https://docs.google.com/presentation/d/1bTgblneO_G2WteTeku40AN-3yKmhiVvpcudqcGo0cco/edit?slide=id.p2#slide=id.p2)
+
 ### 🧠 1. **Según su naturaleza:**
 
 #### a. **Cuantitativas (Numéricas)**
