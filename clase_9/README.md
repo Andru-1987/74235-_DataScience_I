@@ -1,5 +1,7 @@
 ## Clase 9.1: Introducción a la Inteligencia Artificial
 
+### [Diapositivas](https://docs.google.com/presentation/d/1zmIN5N8NCY3Z9f_dm-tkEm3vj387oHs4Jwb2mtpCce8/edit#slide=id.p1)
+
 ### Objetivos de la clase
 
 * Comprender qué es la Inteligencia Artificial (IA).
